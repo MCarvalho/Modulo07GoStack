@@ -31,6 +31,7 @@ export const Container = styled.div`
 
 export const ProductTable = styled.table`
   width: 100%;
+  overflow: scroll;
 
   thead th {
     color: #999;
